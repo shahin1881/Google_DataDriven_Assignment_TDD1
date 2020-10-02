@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Google_Assignment_DataDriven">
+
+	<listeners>
+		<listener class-name="Util.ExtentReporterNG" />
+	</listeners>
+
+	<test name="GmailTest">
+		<classes>
+			<class name="google_dd_tests.googleTest_01"/>
+			<class name="google_dd_tests.googleTest_02"/>
+			<class name="google_dd_tests.googleTest_03"/>
+
+			<class name="google_dd_tests.googleLoginTest_04"/>
+			<class name="google_dd_tests.googleTest_05"/>
+			<class name="google_dd_tests.googleTest_06"/>
+			<class name="google_dd_tests.googleTest_07"/>
+			<class name="google_dd_tests.googleTest_08"/>
+			<class name="google_dd_tests.googleLoginTest_09"/>
+			<class name="google_dd_tests.googleTest_10"/>
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

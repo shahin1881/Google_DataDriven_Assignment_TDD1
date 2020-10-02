@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="18" total="29" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Google_Assignment_DataDriven" duration-ms="391745" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:50:06 IST">
+    <groups>
+    </groups>
+    <test name="GmailTest" duration-ms="391745" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:50:06 IST">
+      <class name="google_dd_tests.googleTest_10">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:google_dd_tests.googleTest_10@5a8806ef]" name="isSkip" is-config="true" duration-ms="2" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="TotalNumOfemailinbox(java.lang.String, java.lang.String)[pri:11, instance:google_dd_tests.googleTest_10@5a8806ef]" name="TotalNumOfemailinbox" duration-ms="10020" started-at="2020-10-02T10:49:56 IST" data-provider="getData" finished-at="2020-10-02T10:50:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shahinsayyed793@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shahin@#123#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalNumOfemailinbox -->
+      </class> <!-- google_dd_tests.googleTest_10 -->
+      <class name="google_dd_tests.googleTest_01">
+        <test-method status="PASS" signature="init()[pri:0, instance:google_dd_tests.googleTest_01@72b6cbcc]" name="init" is-config="true" duration-ms="12300" started-at="2020-10-02T10:43:22 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:google_dd_tests.googleTest_01@72b6cbcc]" name="isSkip" is-config="true" duration-ms="0" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="Verifygooglebutton()[pri:1, instance:google_dd_tests.googleTest_01@72b6cbcc]" name="Verifygooglebutton" duration-ms="375" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifygooglebutton -->
+        <test-method status="PASS" signature="QuitDriver()[pri:0, instance:google_dd_tests.googleTest_01@72b6cbcc]" name="QuitDriver" is-config="true" duration-ms="8077" started-at="2020-10-02T10:50:06 IST" finished-at="2020-10-02T10:50:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitDriver -->
+      </class> <!-- google_dd_tests.googleTest_01 -->
+      <class name="google_dd_tests.googleLoginTest_04">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:google_dd_tests.googleLoginTest_04@68bbe345]" name="isSkip" is-config="true" duration-ms="66" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="SignInGoogleApp(java.lang.String, java.lang.String)[pri:4, instance:google_dd_tests.googleLoginTest_04@68bbe345]" name="SignInGoogleApp" duration-ms="132748" started-at="2020-10-02T10:46:44 IST" data-provider="getData" finished-at="2020-10-02T10:48:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shahinsayyed793@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shahin@#123#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInGoogleApp -->
+      </class> <!-- google_dd_tests.googleLoginTest_04 -->
+      <class name="google_dd_tests.googleTest_07">
+        <test-method status="PASS" signature="init1()[pri:0, instance:google_dd_tests.googleTest_07@4bbfb90a]" name="init1" is-config="true" duration-ms="1" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init1 -->
+        <test-method status="PASS" signature="Countnameoflink()[pri:8, instance:google_dd_tests.googleTest_07@4bbfb90a]" name="Countnameoflink" duration-ms="5827" started-at="2020-10-02T10:49:05 IST" finished-at="2020-10-02T10:49:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Countnameoflink -->
+      </class> <!-- google_dd_tests.googleTest_07 -->
+      <class name="google_dd_tests.googleTest_06">
+        <test-method status="PASS" signature="init1()[pri:0, instance:google_dd_tests.googleTest_06@7494e528]" name="init1" is-config="true" duration-ms="0" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init1 -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:6, instance:google_dd_tests.googleTest_06@7494e528]" name="OpenBrowser" duration-ms="0" started-at="2020-10-02T10:49:05 IST" finished-at="2020-10-02T10:49:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:7, instance:google_dd_tests.googleTest_06@7494e528]" name="closeBrowser" duration-ms="1" started-at="2020-10-02T10:49:05 IST" finished-at="2020-10-02T10:49:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- google_dd_tests.googleTest_06 -->
+      <class name="google_dd_tests.googleTest_08">
+        <test-method status="PASS" signature="skip()[pri:0, instance:google_dd_tests.googleTest_08@7c29daf3]" name="skip" is-config="true" duration-ms="1" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skip -->
+        <test-method status="PASS" signature="VerifyGoogleProductPage()[pri:9, instance:google_dd_tests.googleTest_08@7c29daf3]" name="VerifyGoogleProductPage" duration-ms="14172" started-at="2020-10-02T10:49:11 IST" finished-at="2020-10-02T10:49:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGoogleProductPage -->
+      </class> <!-- google_dd_tests.googleTest_08 -->
+      <class name="google_dd_tests.googleTest_03">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:google_dd_tests.googleTest_03@a7e666]" name="isSkip" is-config="true" duration-ms="1" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="verifyGoogleAppsTitle()[pri:3, instance:google_dd_tests.googleTest_03@a7e666]" name="verifyGoogleAppsTitle" duration-ms="176144" started-at="2020-10-02T10:43:48 IST" finished-at="2020-10-02T10:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogleAppsTitle -->
+      </class> <!-- google_dd_tests.googleTest_03 -->
+      <class name="google_dd_tests.googleTest_02">
+        <test-method status="PASS" signature="VerifyGoogleAllApps()[pri:2, instance:google_dd_tests.googleTest_02@6c49835d]" name="VerifyGoogleAllApps" duration-ms="13544" started-at="2020-10-02T10:43:35 IST" finished-at="2020-10-02T10:43:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGoogleAllApps -->
+      </class> <!-- google_dd_tests.googleTest_02 -->
+      <class name="google_dd_tests.googleTest_05">
+        <test-method status="PASS" signature="init1()[pri:0, instance:google_dd_tests.googleTest_05@30b8a058]" name="init1" is-config="true" duration-ms="2" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init1 -->
+        <test-method status="PASS" signature="VerifyClickOnLang()[pri:5, instance:google_dd_tests.googleTest_05@30b8a058]" name="VerifyClickOnLang" duration-ms="8085" started-at="2020-10-02T10:48:57 IST" finished-at="2020-10-02T10:49:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyClickOnLang -->
+      </class> <!-- google_dd_tests.googleTest_05 -->
+      <class name="google_dd_tests.googleLoginTest_09">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:google_dd_tests.googleLoginTest_09@9660f4e]" name="isSkip" is-config="true" duration-ms="3" started-at="2020-10-02T10:43:34 IST" finished-at="2020-10-02T10:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:10, instance:google_dd_tests.googleLoginTest_09@9660f4e]" name="doLogin" duration-ms="30677" started-at="2020-10-02T10:49:25 IST" data-provider="getData" finished-at="2020-10-02T10:49:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shahinsayyed793@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shahin@#123#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- google_dd_tests.googleLoginTest_09 -->
+    </test> <!-- GmailTest -->
+  </suite> <!-- Google_Assignment_DataDriven -->
+</testng-results>

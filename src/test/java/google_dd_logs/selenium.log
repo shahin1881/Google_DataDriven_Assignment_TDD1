@@ -1,0 +1,155 @@
+09:36:29,255 DEBUG devpinoyLogger:46 - Loading config property file
+09:36:29,260 DEBUG devpinoyLogger:50 - Loading object property file
+09:36:29,992 DEBUG devpinoyLogger:53 - Loading Excel file
+09:36:34,838 DEBUG devpinoyLogger:82 - Launching browser
+09:36:40,207 DEBUG devpinoyLogger:36 - Executing Verify Test
+09:36:40,500 DEBUG devpinoyLogger:41 - Verify signin Button
+09:36:40,567 DEBUG devpinoyLogger:46 - Verify googlesearchbox
+09:36:40,634 DEBUG devpinoyLogger:51 - Verify googlesearchbox Button
+09:36:40,703 DEBUG devpinoyLogger:57 - Verify ImFeelingLucky Button
+09:36:40,704 DEBUG devpinoyLogger:58 - First Task Completely...!
+09:36:43,964 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:36:47,843 DEBUG devpinoyLogger:50 - Verify Account App
+09:36:47,904 DEBUG devpinoyLogger:56 - Verify Search App
+09:36:47,955 DEBUG devpinoyLogger:62 - Verify Maps App
+09:36:47,996 DEBUG devpinoyLogger:68 - Verify YouTube App
+09:36:48,044 DEBUG devpinoyLogger:74 - Verify Play App
+09:36:48,105 DEBUG devpinoyLogger:79 - Verify News App
+09:36:53,182 DEBUG devpinoyLogger:85 - Verify Gmails App
+09:36:53,229 DEBUG devpinoyLogger:90 - Verify Drive App
+09:36:53,268 DEBUG devpinoyLogger:95 - Verify Calender App
+09:36:53,311 DEBUG devpinoyLogger:100 - Verify Translate App
+09:36:53,351 DEBUG devpinoyLogger:105 - Verify Photos App
+09:36:53,389 DEBUG devpinoyLogger:110 - Verify Duo App
+09:36:53,389 DEBUG devpinoyLogger:113 - Tasks 2nd are sucessfully completely....!
+09:37:09,349 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:37:13,580 DEBUG devpinoyLogger:65 - Click On Search1 App
+09:37:14,607 DEBUG devpinoyLogger:69 - Verify googlesearchbox
+09:37:14,658 DEBUG devpinoyLogger:74 - Verify googleSearchButton
+09:37:14,703 DEBUG devpinoyLogger:79 - Verify ImFeelingLucky
+09:37:23,527 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:37:25,025 DEBUG devpinoyLogger:87 - Click On Maps App
+09:37:32,082 DEBUG devpinoyLogger:94 - Click On Mapsearch App
+09:37:32,156 DEBUG devpinoyLogger:100 - Click On Mapmenu App
+09:37:41,632 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:37:43,027 DEBUG devpinoyLogger:109 - Click On YouTube App
+09:37:49,837 DEBUG devpinoyLogger:115 - Verify YouTube App
+09:38:02,193 DEBUG devpinoyLogger:121 - Click On Search2 App
+09:38:02,332 DEBUG devpinoyLogger:127 - Verify SignIn App
+09:38:11,529 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:38:12,578 DEBUG devpinoyLogger:135 - Click On Play App
+09:38:20,989 DEBUG devpinoyLogger:141 - Verify GooglePlay App
+09:38:20,997 DEBUG devpinoyLogger:148 - Verify GooglePlay Logo Title App
+09:38:21,061 DEBUG devpinoyLogger:155 - Verify EntertainmentBox
+09:38:30,013 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:38:31,596 DEBUG devpinoyLogger:163 - Click On News App
+09:38:36,647 DEBUG devpinoyLogger:169 - Verify News App
+09:38:36,705 DEBUG devpinoyLogger:175 - Verify Topstories
+09:38:46,062 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:38:48,485 DEBUG devpinoyLogger:184 - Click On Gmails App
+09:38:54,579 DEBUG devpinoyLogger:191 - Verify Gmail1 App
+09:38:54,643 DEBUG devpinoyLogger:197 - Verify signinGamil
+09:38:54,692 DEBUG devpinoyLogger:203 - Verify Createanaccount
+09:39:03,255 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:39:04,097 DEBUG devpinoyLogger:239 - Click On Translate App
+09:39:15,766 DEBUG devpinoyLogger:247 - Verify Google Translate Title
+09:39:15,824 DEBUG devpinoyLogger:254 - Verify Translate Title
+09:39:15,871 DEBUG devpinoyLogger:260 - Verify Signin
+09:39:24,645 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:39:27,122 DEBUG devpinoyLogger:269 - Click On Photos App
+09:39:32,143 DEBUG devpinoyLogger:275 - Verify Google Photos Title
+09:39:37,129 DEBUG devpinoyLogger:281 - Verify GooglePhotos
+09:39:37,218 DEBUG devpinoyLogger:287 - Verify GetGooglePhotos
+09:39:41,131 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:39:43,207 DEBUG devpinoyLogger:296 - Click On Duo App
+09:39:50,742 DEBUG devpinoyLogger:314 - Verify TryDuoforweb
+09:39:56,897 DEBUG devpinoyLogger:52 - Giving username
+09:39:57,020 DEBUG devpinoyLogger:57 - Click on Next Button
+09:40:02,157 DEBUG devpinoyLogger:63 - Giving password
+09:40:02,158 DEBUG devpinoyLogger:66 - Click on login button
+09:40:05,325 DEBUG devpinoyLogger:70 - login SignIn Successfully
+09:40:11,359 DEBUG devpinoyLogger:76 - Verify signIn Logo
+09:40:14,495 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:40:16,298 DEBUG devpinoyLogger:82 - Click On Account
+09:40:19,756 DEBUG devpinoyLogger:93 - Verify signIn Logo Sucessfully
+09:40:23,530 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:40:24,592 DEBUG devpinoyLogger:99 - Click On Search
+09:40:25,304 DEBUG devpinoyLogger:105 - Verify signIn Logo Sucessfully
+09:40:29,029 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:40:30,907 DEBUG devpinoyLogger:111 - Click On Maps
+09:40:36,116 DEBUG devpinoyLogger:117 - Verify signIn Logo Sucessfully
+09:40:40,288 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:40:41,475 DEBUG devpinoyLogger:123 - Click On YouTube
+09:40:47,495 DEBUG devpinoyLogger:129 - Verify signIn Logo Sucessfully
+09:40:51,330 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:40:52,613 DEBUG devpinoyLogger:135 - Click On Play
+09:40:55,701 DEBUG devpinoyLogger:141 - Verify signIn Logo Sucessfully
+09:40:59,460 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:41:00,785 DEBUG devpinoyLogger:147 - Click On News
+09:41:07,501 DEBUG devpinoyLogger:153 - Verify signIn Logo Sucessfully
+09:41:11,401 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:41:14,533 DEBUG devpinoyLogger:159 - Click On Gmails
+09:41:24,376 DEBUG devpinoyLogger:165 - Verify signIn Logo Sucessfully
+09:41:28,415 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:41:29,659 DEBUG devpinoyLogger:171 - Click On Translate
+09:41:31,817 DEBUG devpinoyLogger:179 - Verify signIn Logo Sucessfully
+09:41:35,452 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:41:36,888 DEBUG devpinoyLogger:186 - Click On Photos
+09:41:42,961 DEBUG devpinoyLogger:192 - Verify signIn Logo Sucessfully
+09:41:47,388 DEBUG devpinoyLogger:76 - Click On GoogleApps
+09:41:49,506 DEBUG devpinoyLogger:198 - Click On Duo
+09:41:53,987 DEBUG devpinoyLogger:204 - Verify signIn Logo Sucessfully
+09:42:04,570 DEBUG devpinoyLogger:216 - SignOut Google Account Sucessfully
+09:42:21,012 DEBUG devpinoyLogger:56 - Click On hindi Link
+09:42:21,051 DEBUG devpinoyLogger:60 - Click And Verify Hindi language
+09:42:21,086 DEBUG devpinoyLogger:66 - Verify Image
+09:42:21,118 DEBUG devpinoyLogger:71 - Verify I'm Feeling Lucky button
+09:42:28,320 DEBUG devpinoyLogger:75 - Click On English Language
+09:42:28,322 DEBUG devpinoyLogger:35 - Open Browser
+09:42:28,325 DEBUG devpinoyLogger:48 - close Browser
+09:42:33,927 DEBUG devpinoyLogger:48 - Display Amitabh Bachchan links
+09:42:33,958 DEBUG devpinoyLogger:48 - Display Amitabh Bachchan links
+09:42:33,986 DEBUG devpinoyLogger:48 - Display Amitabh Bachchan links
+09:42:34,014 DEBUG devpinoyLogger:48 - Display Amitabh Bachchan links
+09:42:34,045 DEBUG devpinoyLogger:48 - Display Amitabh Bachchan links
+09:42:34,073 DEBUG devpinoyLogger:48 - Display Amitabh Bachchan links
+09:42:37,227 DEBUG devpinoyLogger:41 - Click On About
+09:42:46,773 DEBUG devpinoyLogger:44 - Click On Products
+09:42:46,795 DEBUG devpinoyLogger:48 - Mouse Down operation
+09:42:51,876 DEBUG devpinoyLogger:57 - Verify AndroidAuto
+09:42:51,925 DEBUG devpinoyLogger:63 - Verify AndroidOS
+09:42:51,967 DEBUG devpinoyLogger:69 - Verify AndroidTV
+09:42:52,009 DEBUG devpinoyLogger:75 - Verify Cardboard
+09:42:52,051 DEBUG devpinoyLogger:81 - Verify Chrome
+09:42:52,091 DEBUG devpinoyLogger:88 - Verify ChromeWebStore
+09:42:52,128 DEBUG devpinoyLogger:94 - Verify Chromebook
+09:42:52,164 DEBUG devpinoyLogger:100 - Verify Chromecast
+09:42:52,201 DEBUG devpinoyLogger:106 - Verify ConnectedHome
+09:42:52,237 DEBUG devpinoyLogger:112 - Verify Contacts
+09:42:52,274 DEBUG devpinoyLogger:118 - Verify Docs
+09:42:52,310 DEBUG devpinoyLogger:124 - Verify Earth
+09:42:52,345 DEBUG devpinoyLogger:130 - Verify Finance
+09:42:52,381 DEBUG devpinoyLogger:136 - Verify Forms
+09:42:52,417 DEBUG devpinoyLogger:142 - Verify Gboard
+09:42:52,458 DEBUG devpinoyLogger:148 - Verify Gmail
+09:42:52,509 DEBUG devpinoyLogger:154 - Verify GoogleAlerts
+09:42:52,554 DEBUG devpinoyLogger:160 - Verify GoogleAssistant
+09:42:52,606 DEBUG devpinoyLogger:166 - Verify GoogleCast
+09:42:52,643 DEBUG devpinoyLogger:172 - Verify GoogleMeet
+09:42:52,643 DEBUG devpinoyLogger:179 - Task No eigth Sucessfully Completely:...!
+09:44:56,545 DEBUG devpinoyLogger:93 - Click On 1 Number
+09:44:56,575 DEBUG devpinoyLogger:98 - Right button are present
+09:44:59,945 DEBUG devpinoyLogger:108 - Right button are present
+09:44:59,945 DEBUG devpinoyLogger:111 - Done
+09:44:59,946 DEBUG devpinoyLogger:112 - Tasks 10th are sucessfully complete....!
+09:45:05,204 DEBUG devpinoyLogger:101 - Sending Mail
+09:45:09,795 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:45:09,797 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:45:09,800 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:45:09,802 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:45:09,803 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Laxmi%20Computers/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:45:10,850 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:45:10,851 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:45:10,851 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:45:10,852 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:45:10,852 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Laxmi%20Computers/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

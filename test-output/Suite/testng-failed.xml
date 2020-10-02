@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="google_dd_tests.googleLoginTest_04">
+        <methods>
+          <include name="SignInGoogleApp" invocation-numbers="0"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleLoginTest_04 -->
+      <class name="google_dd_tests.googleLoginTest_09">
+        <methods>
+          <include name="doLogin" invocation-numbers="0"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleLoginTest_09 -->
+      <class name="google_dd_tests.googleTest_02">
+        <methods>
+          <include name="VerifyGoogleAllApps"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_02 -->
+      <class name="google_dd_tests.googleTest_10">
+        <methods>
+          <include name="TotalNumOfemailinbox" invocation-numbers="0"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_10 -->
+      <class name="google_dd_tests.googleTest_05">
+        <methods>
+          <include name="VerifyClickOnLang"/>
+          <include name="init1"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_05 -->
+      <class name="google_dd_tests.googleTest_06">
+        <methods>
+          <include name="init1"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_06 -->
+      <class name="google_dd_tests.googleTest_03">
+        <methods>
+          <include name="verifyGoogleAppsTitle"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_03 -->
+      <class name="google_dd_tests.googleTest_07">
+        <methods>
+          <include name="init1"/>
+          <include name="Countnameoflink"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_07 -->
+      <class name="google_dd_tests.googleTest_01">
+        <methods>
+          <include name="Verifygooglebutton"/>
+          <include name="init"/>
+          <include name="isSkip"/>
+          <include name="QuitDriver"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_01 -->
+      <class name="google_dd_tests.googleTest_08">
+        <methods>
+          <include name="skip"/>
+          <include name="VerifyGoogleProductPage"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_08 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

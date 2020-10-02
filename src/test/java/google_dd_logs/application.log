@@ -1,0 +1,145 @@
+02/10/2020 09:36:29 devpinoyLogger Loading config property file
+02/10/2020 09:36:29 devpinoyLogger Loading object property file
+02/10/2020 09:36:29 devpinoyLogger Loading Excel file
+02/10/2020 09:36:34 devpinoyLogger Launching browser
+02/10/2020 09:36:40 devpinoyLogger Executing Verify Test
+02/10/2020 09:36:40 devpinoyLogger Verify signin Button
+02/10/2020 09:36:40 devpinoyLogger Verify googlesearchbox
+02/10/2020 09:36:40 devpinoyLogger Verify googlesearchbox Button
+02/10/2020 09:36:40 devpinoyLogger Verify ImFeelingLucky Button
+02/10/2020 09:36:40 devpinoyLogger First Task Completely...!
+02/10/2020 09:36:43 devpinoyLogger Click On GoogleApps
+02/10/2020 09:36:47 devpinoyLogger Verify Account App
+02/10/2020 09:36:47 devpinoyLogger Verify Search App
+02/10/2020 09:36:47 devpinoyLogger Verify Maps App
+02/10/2020 09:36:47 devpinoyLogger Verify YouTube App
+02/10/2020 09:36:48 devpinoyLogger Verify Play App
+02/10/2020 09:36:48 devpinoyLogger Verify News App
+02/10/2020 09:36:53 devpinoyLogger Verify Gmails App
+02/10/2020 09:36:53 devpinoyLogger Verify Drive App
+02/10/2020 09:36:53 devpinoyLogger Verify Calender App
+02/10/2020 09:36:53 devpinoyLogger Verify Translate App
+02/10/2020 09:36:53 devpinoyLogger Verify Photos App
+02/10/2020 09:36:53 devpinoyLogger Verify Duo App
+02/10/2020 09:36:53 devpinoyLogger Tasks 2nd are sucessfully completely....!
+02/10/2020 09:37:09 devpinoyLogger Click On GoogleApps
+02/10/2020 09:37:13 devpinoyLogger Click On Search1 App
+02/10/2020 09:37:14 devpinoyLogger Verify googlesearchbox
+02/10/2020 09:37:14 devpinoyLogger Verify googleSearchButton
+02/10/2020 09:37:14 devpinoyLogger Verify ImFeelingLucky
+02/10/2020 09:37:23 devpinoyLogger Click On GoogleApps
+02/10/2020 09:37:25 devpinoyLogger Click On Maps App
+02/10/2020 09:37:32 devpinoyLogger Click On Mapsearch App
+02/10/2020 09:37:32 devpinoyLogger Click On Mapmenu App
+02/10/2020 09:37:41 devpinoyLogger Click On GoogleApps
+02/10/2020 09:37:43 devpinoyLogger Click On YouTube App
+02/10/2020 09:37:49 devpinoyLogger Verify YouTube App
+02/10/2020 09:38:02 devpinoyLogger Click On Search2 App
+02/10/2020 09:38:02 devpinoyLogger Verify SignIn App
+02/10/2020 09:38:11 devpinoyLogger Click On GoogleApps
+02/10/2020 09:38:12 devpinoyLogger Click On Play App
+02/10/2020 09:38:20 devpinoyLogger Verify GooglePlay App
+02/10/2020 09:38:20 devpinoyLogger Verify GooglePlay Logo Title App
+02/10/2020 09:38:21 devpinoyLogger Verify EntertainmentBox
+02/10/2020 09:38:30 devpinoyLogger Click On GoogleApps
+02/10/2020 09:38:31 devpinoyLogger Click On News App
+02/10/2020 09:38:36 devpinoyLogger Verify News App
+02/10/2020 09:38:36 devpinoyLogger Verify Topstories
+02/10/2020 09:38:46 devpinoyLogger Click On GoogleApps
+02/10/2020 09:38:48 devpinoyLogger Click On Gmails App
+02/10/2020 09:38:54 devpinoyLogger Verify Gmail1 App
+02/10/2020 09:38:54 devpinoyLogger Verify signinGamil
+02/10/2020 09:38:54 devpinoyLogger Verify Createanaccount
+02/10/2020 09:39:03 devpinoyLogger Click On GoogleApps
+02/10/2020 09:39:04 devpinoyLogger Click On Translate App
+02/10/2020 09:39:15 devpinoyLogger Verify Google Translate Title
+02/10/2020 09:39:15 devpinoyLogger Verify Translate Title
+02/10/2020 09:39:15 devpinoyLogger Verify Signin
+02/10/2020 09:39:24 devpinoyLogger Click On GoogleApps
+02/10/2020 09:39:27 devpinoyLogger Click On Photos App
+02/10/2020 09:39:32 devpinoyLogger Verify Google Photos Title
+02/10/2020 09:39:37 devpinoyLogger Verify GooglePhotos
+02/10/2020 09:39:37 devpinoyLogger Verify GetGooglePhotos
+02/10/2020 09:39:41 devpinoyLogger Click On GoogleApps
+02/10/2020 09:39:43 devpinoyLogger Click On Duo App
+02/10/2020 09:39:50 devpinoyLogger Verify TryDuoforweb
+02/10/2020 09:39:56 devpinoyLogger Giving username
+02/10/2020 09:39:57 devpinoyLogger Click on Next Button
+02/10/2020 09:40:02 devpinoyLogger Giving password
+02/10/2020 09:40:02 devpinoyLogger Click on login button
+02/10/2020 09:40:05 devpinoyLogger login SignIn Successfully
+02/10/2020 09:40:11 devpinoyLogger Verify signIn Logo
+02/10/2020 09:40:14 devpinoyLogger Click On GoogleApps
+02/10/2020 09:40:16 devpinoyLogger Click On Account
+02/10/2020 09:40:19 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:40:23 devpinoyLogger Click On GoogleApps
+02/10/2020 09:40:24 devpinoyLogger Click On Search
+02/10/2020 09:40:25 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:40:29 devpinoyLogger Click On GoogleApps
+02/10/2020 09:40:30 devpinoyLogger Click On Maps
+02/10/2020 09:40:36 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:40:40 devpinoyLogger Click On GoogleApps
+02/10/2020 09:40:41 devpinoyLogger Click On YouTube
+02/10/2020 09:40:47 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:40:51 devpinoyLogger Click On GoogleApps
+02/10/2020 09:40:52 devpinoyLogger Click On Play
+02/10/2020 09:40:55 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:40:59 devpinoyLogger Click On GoogleApps
+02/10/2020 09:41:00 devpinoyLogger Click On News
+02/10/2020 09:41:07 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:41:11 devpinoyLogger Click On GoogleApps
+02/10/2020 09:41:14 devpinoyLogger Click On Gmails
+02/10/2020 09:41:24 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:41:28 devpinoyLogger Click On GoogleApps
+02/10/2020 09:41:29 devpinoyLogger Click On Translate
+02/10/2020 09:41:31 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:41:35 devpinoyLogger Click On GoogleApps
+02/10/2020 09:41:36 devpinoyLogger Click On Photos
+02/10/2020 09:41:42 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:41:47 devpinoyLogger Click On GoogleApps
+02/10/2020 09:41:49 devpinoyLogger Click On Duo
+02/10/2020 09:41:53 devpinoyLogger Verify signIn Logo Sucessfully
+02/10/2020 09:42:04 devpinoyLogger SignOut Google Account Sucessfully
+02/10/2020 09:42:21 devpinoyLogger Click On hindi Link
+02/10/2020 09:42:21 devpinoyLogger Click And Verify Hindi language
+02/10/2020 09:42:21 devpinoyLogger Verify Image
+02/10/2020 09:42:21 devpinoyLogger Verify I'm Feeling Lucky button
+02/10/2020 09:42:28 devpinoyLogger Click On English Language
+02/10/2020 09:42:28 devpinoyLogger Open Browser
+02/10/2020 09:42:28 devpinoyLogger close Browser
+02/10/2020 09:42:33 devpinoyLogger Display Amitabh Bachchan links
+02/10/2020 09:42:33 devpinoyLogger Display Amitabh Bachchan links
+02/10/2020 09:42:33 devpinoyLogger Display Amitabh Bachchan links
+02/10/2020 09:42:34 devpinoyLogger Display Amitabh Bachchan links
+02/10/2020 09:42:34 devpinoyLogger Display Amitabh Bachchan links
+02/10/2020 09:42:34 devpinoyLogger Display Amitabh Bachchan links
+02/10/2020 09:42:37 devpinoyLogger Click On About
+02/10/2020 09:42:46 devpinoyLogger Click On Products
+02/10/2020 09:42:46 devpinoyLogger Mouse Down operation
+02/10/2020 09:42:51 devpinoyLogger Verify AndroidAuto
+02/10/2020 09:42:51 devpinoyLogger Verify AndroidOS
+02/10/2020 09:42:51 devpinoyLogger Verify AndroidTV
+02/10/2020 09:42:52 devpinoyLogger Verify Cardboard
+02/10/2020 09:42:52 devpinoyLogger Verify Chrome
+02/10/2020 09:42:52 devpinoyLogger Verify ChromeWebStore
+02/10/2020 09:42:52 devpinoyLogger Verify Chromebook
+02/10/2020 09:42:52 devpinoyLogger Verify Chromecast
+02/10/2020 09:42:52 devpinoyLogger Verify ConnectedHome
+02/10/2020 09:42:52 devpinoyLogger Verify Contacts
+02/10/2020 09:42:52 devpinoyLogger Verify Docs
+02/10/2020 09:42:52 devpinoyLogger Verify Earth
+02/10/2020 09:42:52 devpinoyLogger Verify Finance
+02/10/2020 09:42:52 devpinoyLogger Verify Forms
+02/10/2020 09:42:52 devpinoyLogger Verify Gboard
+02/10/2020 09:42:52 devpinoyLogger Verify Gmail
+02/10/2020 09:42:52 devpinoyLogger Verify GoogleAlerts
+02/10/2020 09:42:52 devpinoyLogger Verify GoogleAssistant
+02/10/2020 09:42:52 devpinoyLogger Verify GoogleCast
+02/10/2020 09:42:52 devpinoyLogger Verify GoogleMeet
+02/10/2020 09:42:52 devpinoyLogger Task No eigth Sucessfully Completely:...!
+02/10/2020 09:44:56 devpinoyLogger Click On 1 Number
+02/10/2020 09:44:56 devpinoyLogger Right button are present
+02/10/2020 09:44:59 devpinoyLogger Right button are present
+02/10/2020 09:44:59 devpinoyLogger Done
+02/10/2020 09:44:59 devpinoyLogger Tasks 10th are sucessfully complete....!
+02/10/2020 09:45:05 devpinoyLogger Sending Mail

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Google_Assignment_DataDriven]">
+  <listeners>
+    <listener class-name="Util.ExtentReporterNG"/>
+  </listeners>
+  <test name="GmailTest(failed)">
+    <classes>
+      <class name="google_dd_tests.googleTest_08">
+        <methods>
+          <include name="skip"/>
+          <include name="VerifyGoogleProductPage"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_08 -->
+      <class name="google_dd_tests.googleTest_01">
+        <methods>
+          <include name="init"/>
+          <include name="isSkip"/>
+          <include name="QuitDriver"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_01 -->
+      <class name="google_dd_tests.googleLoginTest_04">
+        <methods>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleLoginTest_04 -->
+      <class name="google_dd_tests.googleTest_03">
+        <methods>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_03 -->
+      <class name="google_dd_tests.googleTest_10">
+        <methods>
+          <include name="TotalNumOfemailinbox" invocation-numbers="0"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_10 -->
+      <class name="google_dd_tests.googleTest_06">
+        <methods>
+          <include name="init1"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_06 -->
+      <class name="google_dd_tests.googleTest_07">
+        <methods>
+          <include name="init1"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_07 -->
+      <class name="google_dd_tests.googleLoginTest_09">
+        <methods>
+          <include name="doLogin" invocation-numbers="0"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleLoginTest_09 -->
+      <class name="google_dd_tests.googleTest_05">
+        <methods>
+          <include name="init1"/>
+        </methods>
+      </class> <!-- google_dd_tests.googleTest_05 -->
+    </classes>
+  </test> <!-- GmailTest(failed) -->
+</suite> <!-- Failed suite [Google_Assignment_DataDriven] -->
